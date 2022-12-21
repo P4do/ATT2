@@ -62,7 +62,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://osu.ppy.sh/community/forums/topics/1658260?n=1"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
